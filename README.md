@@ -27,5 +27,9 @@ This is a simple TicTacToe game made using react based on a YouTube video by Gre
 
 Feel free to suggest any chages and I will try to update this frequently 💪
 
-Make sure to follow me on 
-    <a href="https://www.instagram.com/jamjam_officiale">IG</a>
+---
+
+### 🔗 Connect with Me  
+📸 <a href="https://www.linktr.ee/jamjam_official">Socials</a>
+📧 jamjamofficial@email.com
+
